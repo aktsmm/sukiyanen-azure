@@ -6,39 +6,39 @@
 
 ## 次回
 
-| 回 | 開催日 | テーマ | 申し込み |
-| --- | --- | --- | --- |
+| 回  | 開催日           | テーマ                | 申し込み                              |
+| --- | ---------------- | --------------------- | ------------------------------------- |
 | #41 | 2026-08-28（金） | Azure インフラ 夏の陣 | <https://aka.ms/SukiyanenAzure202608> |
 
 登壇のエントリーは <https://aka.ms/SukiyanenSpeaker> から受け付けています。
 
 ## 2026 年
 
-| 回 | 開催 | テーマ | 申し込みページ |
-| --- | --- | --- | --- |
+| 回  | 開催    | テーマ                | 申し込みページ                        |
+| --- | ------- | --------------------- | ------------------------------------- |
 | #40 | 2026-07 | GitHub Copilot 夏祭り | <https://aka.ms/SukiyanenAzure202607> |
-| #39 | 2026-06 | Copilot まみれ | <https://aka.ms/SukiyanenAzure202606> |
-| #38 | 2026-05 | コスト最適化 | <https://aka.ms/SukiyanenAzure202605> |
-| #37 | 2026-04 | Azure Virtual WAN | <https://aka.ms/SukiyanenAzure202604> |
-| #36 | 2026-03 | パートナー共催回 | <https://aka.ms/SukiyanenAzure202603> |
-| #35 | 2026-02 | AI エージェント | <https://aka.ms/SukiyanenAzure202602> |
-| #34 | 2026-01 | GitHub | <https://aka.ms/SukiyanenAzure202601> |
+| #39 | 2026-06 | Copilot まみれ        | <https://aka.ms/SukiyanenAzure202606> |
+| #38 | 2026-05 | コスト最適化          | <https://aka.ms/SukiyanenAzure202605> |
+| #37 | 2026-04 | Azure Virtual WAN     | <https://aka.ms/SukiyanenAzure202604> |
+| #36 | 2026-03 | パートナー共催回      | <https://aka.ms/SukiyanenAzure202603> |
+| #35 | 2026-02 | AI エージェント       | <https://aka.ms/SukiyanenAzure202602> |
+| #34 | 2026-01 | GitHub                | <https://aka.ms/SukiyanenAzure202601> |
 
 ## 2025 年
 
-| 回 | 開催 | テーマ | 申し込みページ |
-| --- | --- | --- | --- |
-| #33 | 2025-12 | AVD × LT 会 | <https://aka.ms/SukiyanenAzure202512> |
-| #32 | 2025-11 | Microsoft Sentinel | <https://aka.ms/SukiyanenAzure202511> |
-| #31 | 2025-10 | Elastic | <https://aka.ms/SukiyanenAzure202510> |
-| #30 | 2025-09 | Microsoft Fabric | <https://aka.ms/SukiyanenAzure202509> |
-| #29 | 2025-08 | 夏の終わり | <https://aka.ms/SukiyanenAzure202508> |
-| #28 | 2025-07 | Microsoft Purview | <https://aka.ms/SukiyanenAzure202507> |
-| #27 | 2025-06 | MOTIVATION EXPO 2025 | <https://aka.ms/SukiyanenAzure202506> |
-| #26 | 2025-05 | アプリ × 認証 | — |
-| #25 | 2025-04 | Azure Virtual Desktop | — |
-| #24 | 2025-02 | Copilot | <https://aka.ms/SukiyanenAzure202502> |
-| #23 | 2025-01 | IaC × AI | — |
+| 回  | 開催    | テーマ                | 申し込みページ                        |
+| --- | ------- | --------------------- | ------------------------------------- |
+| #33 | 2025-12 | AVD × LT 会           | <https://aka.ms/SukiyanenAzure202512> |
+| #32 | 2025-11 | Microsoft Sentinel    | <https://aka.ms/SukiyanenAzure202511> |
+| #31 | 2025-10 | Elastic               | <https://aka.ms/SukiyanenAzure202510> |
+| #30 | 2025-09 | Microsoft Fabric      | <https://aka.ms/SukiyanenAzure202509> |
+| #29 | 2025-08 | 夏の終わり            | <https://aka.ms/SukiyanenAzure202508> |
+| #28 | 2025-07 | Microsoft Purview     | <https://aka.ms/SukiyanenAzure202507> |
+| #27 | 2025-06 | MOTIVATION EXPO 2025  | <https://aka.ms/SukiyanenAzure202506> |
+| #26 | 2025-05 | アプリ × 認証         | —                                     |
+| #25 | 2025-04 | Azure Virtual Desktop | —                                     |
+| #24 | 2025-02 | Copilot               | <https://aka.ms/SukiyanenAzure202502> |
+| #23 | 2025-01 | IaC × AI              | —                                     |
 
 ## 公開されている登壇資料
 

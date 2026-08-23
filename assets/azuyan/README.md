@@ -13,17 +13,17 @@
 
 ## ファイル一覧
 
-| ファイル | 形式 | 用途 |
-| --- | --- | --- |
-| [azuyan.png](azuyan.png) | PNG（背景透過） | 標準のアズヤン。スライドの表紙やアクセントに |
-| [azuyan-icon.png](azuyan-icon.png) | PNG（軽量） | アイコンや小さめの差し込み用 |
-| [azuyan-tora.png](azuyan-tora.png) | PNG（背景透過） | トラ柄バージョン |
-| [azuyan-mono.svg](azuyan-mono.svg) | SVG | モノクロ版。印刷物や 1 色使いに |
-| [azuyan-mono-inverted.svg](azuyan-mono-inverted.svg) | SVG | モノクロ白黒反転版 |
-| [azuyan-for-dark-bg.svg](azuyan-for-dark-bg.svg) | SVG | 暗い背景（黒 T シャツなど）向けに目の描画を調整した版 |
-| [logo-with-azuyan.jpg](logo-with-azuyan.jpg) | JPG | 「すきやねん Azure!!」ロゴ + アズヤン |
-| [logo-white-1.jpg](logo-white-1.jpg) | JPG | ロゴ（白背景）バリエーション 1 |
-| [logo-white-2.jpg](logo-white-2.jpg) | JPG | ロゴ（白背景）バリエーション 2 |
+| ファイル                                             | 形式            | 用途                                                  |
+| ---------------------------------------------------- | --------------- | ----------------------------------------------------- |
+| [azuyan.png](azuyan.png)                             | PNG（背景透過） | 標準のアズヤン。スライドの表紙やアクセントに          |
+| [azuyan-icon.png](azuyan-icon.png)                   | PNG（軽量）     | アイコンや小さめの差し込み用                          |
+| [azuyan-tora.png](azuyan-tora.png)                   | PNG（背景透過） | トラ柄バージョン                                      |
+| [azuyan-mono.svg](azuyan-mono.svg)                   | SVG             | モノクロ版。印刷物や 1 色使いに                       |
+| [azuyan-mono-inverted.svg](azuyan-mono-inverted.svg) | SVG             | モノクロ白黒反転版                                    |
+| [azuyan-for-dark-bg.svg](azuyan-for-dark-bg.svg)     | SVG             | 暗い背景（黒 T シャツなど）向けに目の描画を調整した版 |
+| [logo-with-azuyan.jpg](logo-with-azuyan.jpg)         | JPG             | 「すきやねん Azure!!」ロゴ + アズヤン                 |
+| [logo-white-1.jpg](logo-white-1.jpg)                 | JPG             | ロゴ（白背景）バリエーション 1                        |
+| [logo-white-2.jpg](logo-white-2.jpg)                 | JPG             | ロゴ（白背景）バリエーション 2                        |
 
 ## 使い方のヒント
 
