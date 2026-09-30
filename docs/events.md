@@ -8,21 +8,23 @@
 
 | 回  | 開催日           | テーマ                | 申し込み                              |
 | --- | ---------------- | --------------------- | ------------------------------------- |
-| #41 | 2026-08-28（金） | Azure インフラ 夏の陣 | <https://aka.ms/SukiyanenAzure202608> |
+| #43 | 2026-10-30（金） | CAF × AI エージェント | <https://aka.ms/SukiyanenAzure202610> |
 
 登壇のエントリーは <https://aka.ms/SukiyanenSpeaker> から受け付けています。
 
 ## 2026 年
 
-| 回  | 開催    | テーマ                | 申し込みページ                        |
-| --- | ------- | --------------------- | ------------------------------------- |
-| #40 | 2026-07 | GitHub Copilot 夏祭り | <https://aka.ms/SukiyanenAzure202607> |
-| #39 | 2026-06 | Copilot まみれ        | <https://aka.ms/SukiyanenAzure202606> |
-| #38 | 2026-05 | コスト最適化          | <https://aka.ms/SukiyanenAzure202605> |
-| #37 | 2026-04 | Azure Virtual WAN     | <https://aka.ms/SukiyanenAzure202604> |
-| #36 | 2026-03 | パートナー共催回      | <https://aka.ms/SukiyanenAzure202603> |
-| #35 | 2026-02 | AI エージェント       | <https://aka.ms/SukiyanenAzure202602> |
-| #34 | 2026-01 | GitHub                | <https://aka.ms/SukiyanenAzure202601> |
+| 回  | 開催    | テーマ                       | 申し込みページ                        |
+| --- | ------- | ---------------------------- | ------------------------------------- |
+| #42 | 2026-09 | レゾナック × MVP × Microsoft | <https://aka.ms/SukiyanenAzure202609> |
+| #41 | 2026-08 | Azure インフラ 夏の陣        | <https://aka.ms/SukiyanenAzure202608> |
+| #40 | 2026-07 | GitHub Copilot 夏祭り        | <https://aka.ms/SukiyanenAzure202607> |
+| #39 | 2026-06 | Copilot まみれ               | <https://aka.ms/SukiyanenAzure202606> |
+| #38 | 2026-05 | コスト最適化                 | <https://aka.ms/SukiyanenAzure202605> |
+| #37 | 2026-04 | Azure Virtual WAN            | <https://aka.ms/SukiyanenAzure202604> |
+| #36 | 2026-03 | パートナー共催回             | <https://aka.ms/SukiyanenAzure202603> |
+| #35 | 2026-02 | AI エージェント              | <https://aka.ms/SukiyanenAzure202602> |
+| #34 | 2026-01 | GitHub                       | <https://aka.ms/SukiyanenAzure202601> |
 
 ## 2025 年
 
@@ -43,6 +45,18 @@
 ## 公開されている登壇資料
 
 登壇者ご本人が公開されている資料へのリンクです。掲載の可否は各登壇者の意向に沿っています。
+
+### #42（2026-09）レゾナック × MVP × Microsoft
+
+- [製造業現場での AI 活用のリアル。ハマる罠とうまくいく実践知](https://www.docswell.com/s/shirokuma/Z8NQ8W-20260924-sukiyanen-azure-ai-knowhow) — Microsoft MVP 野村
+- [作れたやん。ほんで、その次は？ Microsoft Foundry で AI エージェントの改善ループに Deep Dive!](https://www.docswell.com/s/chips0711/KX2D8Y-20260925-sukiyanenazure42-foundry-eval-optimize-deepdive) — Microsoft 松本
+- [Azure Virtual Desktop 方式比較](https://www.docswell.com/s/6258098609/5PR3G2-2026-09-30-000000) — 原田 幸太郎
+- [AVD Hybrid on Nutanix AHV with Nerdio（公開コラム）](https://www.intellilink.co.jp/column/ms/2026/092500.aspx) — 原田 幸太郎
+
+### #41（2026-08）Azure インフラ 夏の陣
+
+- [人間向けの世界を、AI が動かす：Project Opal × GSA (EFP) で描く企業業務の未来](https://www.docswell.com/s/carol0226/K3J42L-OpalxGSA) — Microsoft MVP 野口 修司
+- [Azure VM の Entra ID Join 始めますか？](https://www.docswell.com/s/iboy/53J4RL-sukiyanen-azure) — あいぼーい
 
 ### #40（2026-07）GitHub Copilot 夏祭り
 
