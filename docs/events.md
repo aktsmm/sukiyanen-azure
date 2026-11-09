@@ -4,18 +4,22 @@
 
 各回のお申し込みページは MICUG（Microsoft ユーザーグループ）のイベントページです。過去回の申し込みページは受付を終了していますが、当日のアジェンダを確認できます。
 
-## 次回
+## 今後の開催
 
-| 回  | 開催日           | テーマ                | 申し込み                              |
-| --- | ---------------- | --------------------- | ------------------------------------- |
-| #43 | 2026-10-30（金） | CAF × AI エージェント | <https://aka.ms/SukiyanenAzure202610> |
+| # | 回 | 開催日 | テーマ | 申し込み |
+|---|---|---|---|---|
+| 1 | #44 | 2026-11-27（金） | AI とデータ、守りながらどう活かすん？ | <https://aka.ms/SukiyanenAzure202611> |
+| 2 | #45 | 2026-12-25（金） | 2026 年 年忘れ号：クリスマスパーティー LT 忘年会 | <https://aka.ms/SukiyanenAzure202612> |
 
-登壇のエントリーは <https://aka.ms/SukiyanenSpeaker> から受け付けています。
+次回は #44（11 月 27 日）です。登録締切は #44 が **11 月 24 日（火）18:00**、#45 が **12 月 21 日（月）18:00**。開催内容や受付状況は、各申し込みページでご確認ください。
+
+登壇のエントリーは <https://aka.ms/SukiyanenSpeaker> から受け付けています。[#45 の LT 大会](https://sukiyanenazure.connpass.com/event/411185/)の事前 LT 枠は埋まっていますので、別の回の登壇や今後の募集についてご相談ください。
 
 ## 2026 年
 
 | 回  | 開催    | テーマ                       | 申し込みページ                        |
 | --- | ------- | ---------------------------- | ------------------------------------- |
+| #43 | 2026-10 | Azure の設計・統制・運用、AI でどう変わるん？ | <https://aka.ms/SukiyanenAzure202610> |
 | #42 | 2026-09 | レゾナック × MVP × Microsoft | <https://aka.ms/SukiyanenAzure202609> |
 | #41 | 2026-08 | Azure インフラ 夏の陣        | <https://aka.ms/SukiyanenAzure202608> |
 | #40 | 2026-07 | GitHub Copilot 夏祭り        | <https://aka.ms/SukiyanenAzure202607> |
@@ -45,6 +49,14 @@
 ## 公開されている登壇資料
 
 登壇者ご本人が公開されている資料へのリンクです。掲載の可否は各登壇者の意向に沿っています。
+
+### #43（2026-10）Azure の設計・統制・運用、AI でどう変わるん？
+
+- [CAF 概要 - CAF ってそもそもなんやっけ？](https://www.docswell.com/s/6258098609/Z4N1LW-2026-11-01-000000) — 原田
+- [Azure Copilot Resiliency Agent (preview)](https://speakerdeck.com/tomokusaba/azure-copilot-resiliency-agent-preview) — Microsoft MVP 草場友光
+- [Windows 11 Web Sign-in on Hybrid Join – Insider Preview Verification –](https://www.docswell.com/s/projectEE/ZJWP8G-sukiyanenazure43-websignin) — 島田 美月
+- [今月の Azure 運用で辛/幸かったこと TOP3](https://www.docswell.com/s/4231810937/K4N14Q-2026-10-30-131657) — 大貫朋輝
+- [AI に運用を任せるなら、AI に渡す手順書も統制しよう（APM でスキルを lock して CI で守る）](https://www.docswell.com/s/q8956643650zz/5Q2P7N-2026-11-04-194153) — 辻本傑
 
 ### #42（2026-09）レゾナック × MVP × Microsoft
 
